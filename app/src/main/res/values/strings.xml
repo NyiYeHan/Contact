@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="about">About</string>
+    <string name="p">P</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="e">E</string>
+    <string name="w">W</string>
+    <string name="website">Website</string>
+    <string name="a">A</string>
+    <string name="street">Street</string>
+    <string name="suite">Suite</string>
+    <string name="city">City</string>
+    <string name="zipcode">ZipCode</string>
+    <string name="address">Address</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+</resources>
