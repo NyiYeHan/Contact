@@ -2,7 +2,7 @@
 ## Table of Contents
 
 1.  [Introduction](#introduction)
-2.  [Naming Conversion](#naming-conventions)
+2.  [Naming Convention](#naming-conventions)
 3. [Variable Naming](#variables)
 4. [Functions](#functions)
 5. [Error Handling](#error-handling)
