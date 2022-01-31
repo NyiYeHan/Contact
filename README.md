@@ -7,8 +7,6 @@
 4. [Functions](#functions)
 5. [Error Handling](#error-handling)
 6. [Comments](#comments)
-7. [Objects and Data Structures](#objects-and-data-structures)
-
 
 ## conventions
     
@@ -228,8 +226,6 @@ The number of arguments for a function are zero(niladic), one(monadic), two(dyad
 three(triadic) should be avoided where possible and more than three(polyadic) 
 requires very special justification(shouldn't be used anyway).
 
-Flag arguments are ugly. In that case we should split the function into two: 
-`functionForTrue()` and `functionForFalse()`
 
 **Argument Objects**
 
@@ -438,7 +434,6 @@ fun multiply(int number1, int number2) : Int{
 ```
 **[⬆ back to top](#table-of-contents)**
 
-## **Objects and Data Structures**
 
 
 
